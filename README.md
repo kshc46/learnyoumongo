@@ -1,2 +1,2 @@
 # learnyoumongo
-MongoDB tutorial
+My MongoDB tutorial solutions
